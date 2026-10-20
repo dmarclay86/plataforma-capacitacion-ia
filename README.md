@@ -25,6 +25,6 @@ Se permite compartir la obra sin modificaciones, citando al autor y sin fines co
 
 Cita sugerida: Marclay, D. (2026). Plataforma de Capacitación con IA [Software]. IUPFA.
 
-Contacto
+Contacto: diegomarclay@hotmail.com
 
 Para consultas o autorizaciones adicionales, contactar al autor.
